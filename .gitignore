@@ -1,0 +1,29 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+_ReSharper*/
+*.DotSettings.user
+
+## ASP.NET
+*.pubxml
+*.pubxml.user
+PublishProfiles/
+
+## Environment
+.env
+.env.local
+appsettings.Production.json
+
+## Docker
+docker-compose.override.yml
+
+## Logs
+*.log
+logs/
+
+## OS
+.DS_Store
+Thumbs.db
